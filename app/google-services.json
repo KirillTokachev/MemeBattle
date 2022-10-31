@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "127483336719",
+    "project_id": "memebattle-72b1c",
+    "storage_bucket": "memebattle-72b1c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:127483336719:android:fbf514cae5e9114d256b7a",
+        "android_client_info": {
+          "package_name": "com.example.memebattle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "127483336719-20io8uhe5v5vtivupqmtuehjt6t1gqiu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhN22bALAvrXIyYSGJxs1QDD_pXhPxQwA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "127483336719-20io8uhe5v5vtivupqmtuehjt6t1gqiu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

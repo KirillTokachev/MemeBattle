@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MemeBattle</string>
+    <string name="back4app_server_url">https://parseapi.back4app.com</string>
+    <string name="back4app_app_id">BCrUQVkk80pCdeImSXoKXL5ZCtyyEZwbN7mAb11f</string>
+    <string name="back4app_client_key">rWFPEbTs7UzkaVsIXnQ4qmmr9oWqwXfiiJehtIZu</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="generate_meme">Сгенирироать мем</string>
+    <string name="generate_question">Сгенирировать вопрос</string>
+    <string name="question">Здесь будет вопрос</string>
+    <string name="back">Назад</string>
+</resources>
